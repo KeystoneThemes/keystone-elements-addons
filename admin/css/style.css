@@ -1,0 +1,32 @@
+.kea-notice {
+    padding: 10px;
+    display: block;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    margin: 20px 0px;
+    font-weight: 600;
+}
+.kea-notice.kea-notice-warning {
+    border-left-color: #ffb900;
+}
+
+.kea-notice.kea-notice-info {
+    border-left-color: #00a0d2;
+}
+
+.kea-text-warning {
+    color: #F44336;
+}
+
+#kea-dashboard-widget h3 {
+    font-weight: 600;
+    border-bottom: 1px solid #eee;
+    margin: 12px 0 0 0;
+    padding: 0 0 12px 0;
+}
+
+.kea-changelog {
+    margin-bottom:20px;
+}

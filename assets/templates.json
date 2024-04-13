@@ -1,0 +1,11 @@
+{
+    "1": {
+      "tags": ["accordion", "light", "faq"],
+      "type": ["section"],
+      "categories": [2],
+      "name": "FAQ",
+      "imgUrl": "https://elements.keystonethemes.com/assets/img/faq1.png",
+      "largeImgUrl": "https://elements.keystonethemes.com/assets/img/faq1.png"
+    }
+  }
+  
